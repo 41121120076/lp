@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://karibik-festival.de/" rel="preconnect"/>
+<link href="https://www.karibik-festival.de/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -12,7 +12,7 @@
 <title>Juara288 # Festival Online Juara Platform Slot Gacor Malam Ini Server Slot88 Terpercaya</title>
 <meta name="title" content="Juara288 # Festival Online Juara Platform Slot Gacor Malam Ini Server Slot88 Terpercaya">
 <meta name="robots" content="index, follow, nosnippet">
-<link rel="canonical" href="https://karibik-festival.de/">
+<link rel="canonical" href="https://www.karibik-festival.de/">
 <link rel="amphtml" href="https://festival.asu.mex.com/">
 <link rel="alternate" hreflang="id-id" href="https://festival.asu.mex.com/"/>
 <link rel="alternate" hreflang="id" href="https://festival.asu.mex.com/"/>
@@ -25,12 +25,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Juara288 # Festival Online Juara Platform Slot Gacor Malam Ini Server Slot88 Terpercaya">
 <meta name="twitter:description" content="Juara288 adalah platform online slot gacor berlisensi resmi yang dikenal luas sebagai juara slot88 terpercaya karena akses cepat, koleksi game lengkap, serta memiliki tampilan modern.">
-<meta name="twitter:url" content="https://karibik-festival.de/">
+<meta name="twitter:url" content="https://www.karibik-festival.de/">
 <meta name="twitter:image" content="https://festival.asu.mex.com/img/logo.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="JUARA288">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://karibik-festival.de/">
+<meta property="og:url" content="https://www.karibik-festival.de/">
 <meta property="og:title" content="Juara288 # Festival Online Juara Platform Slot Gacor Malam Ini Server Slot88 Terpercaya">
 <meta property="og:description" content="Juara288 adalah platform online slot gacor berlisensi resmi yang dikenal luas sebagai juara slot88 terpercaya karena akses cepat, koleksi game lengkap, serta memiliki tampilan modern.">
 <meta property="og:image" content="https://festival.asu.mex.com/img/Juara288.jpg">
@@ -696,9 +696,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://karibik-festival.de/#organization",
+        "@id": "https://www.karibik-festival.de/#organization",
         "name": "S7",
-        "url": "https://karibik-festival.de/",
+        "url": "https://www.karibik-festival.de/",
         "logo": "https://festival.asu.mex.com/img/logo.gif",
         "sameAs": [
           "https://www.facebook.com/JUARA288",
@@ -725,32 +725,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://karibik-festival.de/#breadcrumb",
+        "@id": "https://www.karibik-festival.de/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Demo",
-            "item": "https://karibik-festival.de/-Demo"
+            "item": "https://www.karibik-festival.de/-Demo"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Slot Jackpot",
-            "item": "https://karibik-festival.de/-Demo-Slot"
+            "item": "https://www.karibik-festival.de/-Demo-Slot"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "JUARA288",
-            "item": "https://karibik-festival.de/-Slot-Demo"
+            "item": "https://www.karibik-festival.de/-Slot-Demo"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://karibik-festival.de/demo#product",
+        "@id": "https://www.karibik-festival.de/demo#product",
         "name": "S7",
         "image": [
           "https://festival.asu.mex.com/img/Juara288.jpg"
@@ -762,7 +762,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Demo-Slot-Terlengkap",
         "category": "Slot Online",
-        "url": "https://karibik-festival.de/",
+        "url": "https://www.karibik-festival.de/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -806,7 +806,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://karibik-festival.de/",
+          "url": "https://www.karibik-festival.de/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -815,7 +815,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://karibik-festival.de/#merchant-listing",
+        "@id": "https://www.karibik-festival.de/#merchant-listing",
         "name": "Slot Jackpot",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -824,9 +824,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://karibik-festival.de//demo-slot#product",
+              "@id": "https://www.karibik-festival.de//demo-slot#product",
               "name": "Demo",
-              "url": "https://karibik-festival.de//demo-slot",
+              "url": "https://www.karibik-festival.de//demo-slot",
               "image": "https://festival.asu.mex.com/img/Juara288.jpg",
               "description": "Juara288 adalah platform online slot gacor berlisensi resmi yang dikenal luas sebagai juara slot88 terpercaya karena akses cepat, koleksi game lengkap, serta memiliki tampilan modern.",
               "brand": {
@@ -841,7 +841,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://karibik-festival.de//demo-slot",
+                "url": "https://www.karibik-festival.de//demo-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -853,9 +853,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://karibik-festival.de//#product",
+              "@id": "https://www.karibik-festival.de//#product",
               "name": "Demo",
-              "url": "https://karibik-festival.de/",
+              "url": "https://www.karibik-festival.de/",
               "image": "https://festival.asu.mex.com/img/Juara288.jpg",
               "description": "Juara288 adalah platform online slot gacor berlisensi resmi yang dikenal luas sebagai juara slot88 terpercaya karena akses cepat, koleksi game lengkap, serta memiliki tampilan modern.",
               "brand": {
@@ -870,7 +870,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://karibik-festival.de/",
+                "url": "https://www.karibik-festival.de/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -882,9 +882,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://karibik-festival.de//Demo-Slot#product",
+              "@id": "https://www.karibik-festival.de//Demo-Slot#product",
               "name": "Demo",
-              "url": "https://karibik-festival.de//Demo-Slot",
+              "url": "https://www.karibik-festival.de//Demo-Slot",
               "image": "https://festival.asu.mex.com/img/Juara288.jpg",
               "description": "Juara288 adalah platform online slot gacor berlisensi resmi yang dikenal luas sebagai juara slot88 terpercaya karena akses cepat, koleksi game lengkap, serta memiliki tampilan modern.",
               "brand": {
@@ -899,7 +899,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://karibik-festival.de//Demo-Slot",
+                "url": "https://www.karibik-festival.de//Demo-Slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -917,27 +917,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://karibik-festival.de/#org",
+      "@id": "https://www.karibik-festival.de/#org",
       "name": "Demo",
-      "url": "https://karibik-festival.de/",
+      "url": "https://www.karibik-festival.de/",
       "logo": "https://festival.asu.mex.com/img/Juara288.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://karibik-festival.de/#website",
-      "url": "https://karibik-festival.de/",
+      "@id": "https://www.karibik-festival.de/#website",
+      "url": "https://www.karibik-festival.de/",
       "name": "Demo",
-      "publisher": { "@id": "https://karibik-festival.de/#org" },
+      "publisher": { "@id": "https://www.karibik-festival.de/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://karibik-festival.de/?s={search_term_string}",
+        "target": "https://www.karibik-festival.de/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://karibik-festival.de/#app",
+      "@id": "https://www.karibik-festival.de/#app",
       "name": "Demo",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1097,7 +1097,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://karibik-festival.de/">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://www.karibik-festival.de/">
         <img src="https://festival.asu.mex.com/img/logo.gif" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1385,7 +1385,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             JUARA288
             </span>
@@ -1402,7 +1402,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Jackpot
             </span>
@@ -1416,7 +1416,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1430,7 +1430,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1444,7 +1444,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              Slot Jackpot LOGIN
             </span>
@@ -1458,7 +1458,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT77
             </span>
@@ -1491,7 +1491,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://karibik-festival.de/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.karibik-festival.de/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1499,10 +1499,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://karibik-festival.de/" href="https://karibik-festival.de/" role="menuitem">
+         <a data-linkinfo="https://www.karibik-festival.de/" href="https://www.karibik-festival.de/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://karibik-festival.de/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.karibik-festival.de/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1525,7 +1525,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://karibik-festival.de/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.karibik-festival.de/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1575,14 +1575,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://karibik-festival.de/"
+              href="https://www.karibik-festival.de/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://karibik-festival.de/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.karibik-festival.de/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://karibik-festival.de/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.karibik-festival.de/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1598,7 +1598,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://karibik-festival.de/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.karibik-festival.de/" role="menuitem">
               Slot
             </a>
            </div>
@@ -1630,7 +1630,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://karibik-festival.de/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.karibik-festival.de/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2178,10 +2178,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://karibik-festival.de/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.karibik-festival.de/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://karibik-festival.de/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.karibik-festival.de/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2683,7 +2683,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/">
              Add to cart
             </a>
            </div>
@@ -2843,7 +2843,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://karibik-festival.de/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.karibik-festival.de/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4243,7 +4243,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://karibik-festival.de/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.karibik-festival.de/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6514,42 +6514,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     JUARA288
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Pagi Ini
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Siang Ini
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Sore Ini
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Malam Ini
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Jackpot Terbesar
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot Gacor Hari Ini
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Slot777
                   </a>
                 </li>
@@ -6574,37 +6574,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Program Referral
                   </a>
                 </li>
@@ -6630,37 +6630,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6701,17 +6701,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Program VIP
                   </a>
                 </li>
@@ -6738,22 +6738,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6777,22 +6777,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Tentang SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Kenapa Pilih SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://karibik-festival.de/">
+                  <a class="footer-category__link" href="https://www.karibik-festival.de/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6812,7 +6812,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://karibik-festival.de/">
+            <a class="footer-language__anchor" href="https://www.karibik-festival.de/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6820,7 +6820,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://karibik-festival.de/">
+            <a class="footer-language__anchor" href="https://www.karibik-festival.de/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8166,7 +8166,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://karibik-festival.de/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.karibik-festival.de/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8447,7 +8447,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8470,7 +8470,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8548,11 +8548,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://karibik-festival.de/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.karibik-festival.de/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/" role="button">
         </a>
        </div>
       </div>
@@ -8618,12 +8618,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://karibik-festival.de/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.karibik-festival.de/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://karibik-festival.de/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.karibik-festival.de/" role="button">
            Yakin
           </a>
          </div>
@@ -8648,7 +8648,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/">
          Best&auml;tigen
         </a>
        </div>
@@ -8671,7 +8671,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://karibik-festival.de/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.karibik-festival.de/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8722,12 +8722,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://karibik-festival.de/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.karibik-festival.de/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://karibik-festival.de/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.karibik-festival.de/" role="button">
            Yakin
           </a>
          </div>
