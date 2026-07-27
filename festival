@@ -705,7 +705,7 @@ digitalData.page.pageInfo.pageName = pageName;
           "https://instagram.com/JUARA288",
           "https://twitter.com/slot",
           "https://linklist.bio/JUARA288",
-          "https://t.me/JUARA288",
+          "https://t.me/JUARA288"
         ],
         "contactPoint": {
           "@type": "ContactPoint",
@@ -713,13 +713,6 @@ digitalData.page.pageInfo.pageName = pageName;
           "contactType": "customer support",
           "availableLanguage": ["id", "en"],
           "areaServed": "ID"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "ratingCount": "685237",
-          "bestRating": "5",
-          "worstRating": "1"
         }
       },
 
