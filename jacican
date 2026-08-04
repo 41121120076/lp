@@ -1449,112 +1449,213 @@
 <section class="product-seo-section"
 itemscope
 itemtype="https://schema.org/Product">
-    <!-- JSON-LD Structured Data untuk SEO Rich Snippet -->
-    <script type="application/ld+json">
+
+<!-- ================= JSON LD ================= -->
+
+<script type="application/ld+json">
 {
-  "@context":"https://schema.org",
-  "@type":"Product",
-  "@id":"https://asupansnack.site/#product",
-  "name":"JUARA288 - Platform Game Online Official",
-  "description":"Platform game online resmi dengan sistem keamanan tinggi, transaksi cepat dan layanan pelanggan 24 jam.",
-  "image":[
-    "https://asupansnack.site/img/juara/juara28.jpg"
-  ],
-  "brand":{
-    "@type":"Brand",
-    "name":"JUARA288"
-  },
-  "url":"https://asupansnack.site/",
-  "offers":{
-    "@type":"Offer",
-    "url":"https://asupansnack.site/",
-    "price":"10000",
-    "priceCurrency":"IDR",
-    "availability":"https://schema.org/InStock",
-    "seller":{
+ "@context":"https://schema.org",
+ "@type":"Product",
+ "@id":"https://asupansnack.site/#product",
+ "name":"JUARA288 - Platform Game Online Official",
+ "description":"Platform game online resmi dengan sistem keamanan tinggi, transaksi cepat dan layanan pelanggan 24 jam.",
+ "image":[
+   "https://asupansnack.site/img/juara/juara28.jpg"
+ ],
+ "brand":{
+   "@type":"Brand",
+   "name":"JUARA288"
+ },
+ "url":"https://www.jacican.com.au/",
+ "offers":{
+   "@type":"Offer",
+   "url":"https://www.jacican.com.au/",
+   "price":"10000",
+   "priceCurrency":"IDR",
+   "availability":"https://schema.org/InStock",
+   "seller":{
       "@type":"Organization",
       "name":"JUARA288"
-    }
-  }
+   }
+ }
 }
 </script>
 
-    <div class="product-seo-container">
-        <!-- KIRI: GAMBAR 1:1 PERFORMANS & ACCESSIBLE -->
-        <figure class="product-media-box">
-    <img
-        itemprop="image"
-        src="https://asupansnack.site/img/juara/juara28.jpg"
-        alt="Platform Game Online JUARA288"
-        title="JUARA288 Platform Game Online"
-        class="product-img-1to1"
-        loading="lazy"
-        decoding="async"
-        width="600"
-        height="600">
-    <figcaption class="seo-caption">
-        Sertifikasi dan Keunggulan Platform JUARA288
-    </figcaption>
+<div class="product-seo-container">
+
+<figure class="product-media-box">
+
+<img
+src="https://asupansnack.site/img/juara/juara28.jpg"
+alt="Platform Game Online JUARA288"
+title="Platform Game Online JUARA288"
+class="product-img-1to1"
+loading="lazy"
+decoding="async"
+width="600"
+height="600"
+
+itemprop="image">
+
+<figcaption>
+Sertifikasi dan Keunggulan Platform JUARA288
+</figcaption>
+
 </figure>
-            
 
+<article class="product-info-box">
 
-        <!-- KANAN: TABEL SPESIFIKASI & KEUNGGULAN PRODUK -->
-        <article class="product-info-box">
-            <header class="info-header">
-                <span class="seo-tag"><i class="fa-solid fa-shield-halved"></i> TRUSTED PLATFORM 2026</span>
-                <h2 itemprop="name" class="info-title">Keunggulan & Spesifikasi Layanan Kami</h2>
-                <p itemprop="description" class="info-desc">
-                    Nikmati kenyamanan bermain dengan infrastruktur server terbaik, pemrosesan transaksi tercepat, dan jaminan keamanan tingkat lanjut.
-                </p>
-            </header>
+<meta itemprop="name" content="JUARA288 - Platform Game Online Official">
 
-            <!-- TABEL KEUNGGULAN (DESAIN TERSTRUKTUR PRO SEO) -->
-            <div class="table-responsive">
-                <table class="features-table">
-                    <thead>
-                        <tr>
-                            <th scope="col">Fitur / Layanan</th>
-                            <th scope="col">Spesifikasi</th>
-                            <th scope="col">Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><i class="fa-solid fa-bolt icon-gold"></i> <strong>Kecepatan Deposit</strong></td>
-                            <td>Rata-rata 10 - 30 Detik</td>
-                            <td><span class="status-badge instant">Otomatis</span></td>
-                        </tr>
-                        <tr>
-                            <td><i class="fa-solid fa-money-bill-transfer icon-cyan"></i> <strong>Proses Withdraw</strong></td>
-                            <td>1 - 3 Menit (Tanpa Potongan)</td>
-                            <td><span class="status-badge instant">Instan</span></td>
-                        </tr>
-                        <tr>
-                            <td><i class="fa-solid fa-chart-line icon-gold"></i> <strong>RTP Winrate Live</strong></td>
-                            <td>Rata-rata 98.8% Transparan</td>
-                            <td><span class="status-badge high">Tinggi</span></td>
-                        </tr>
-                        <tr>
-                            <td><i class="fa-solid fa-lock icon-cyan"></i> <strong>Sistem Keamanan</strong></td>
-                            <td>Enkripsi SSL 256-Bit & Anti-Hacking</td>
-                            <td><span class="status-badge secure">Terproteksi</span></td>
-                        </tr>
-                        <tr>
-                            <td><i class="fa-solid fa-headset icon-gold"></i> <strong>Layanan CS</strong></td>
-                            <td>24 Jam Nonstop via Livechat & WA</td>
-                            <td><span class="status-badge active">Standby</span></td>
-                        </tr>
-                        <tr>
-                            <td><i class="fa-solid fa-credit-card icon-cyan"></i> <strong>Metode Pembayaran</strong></td>
-                            <td>Bank Lokal, E-Wallet & QRIS All Pay</td>
-                            <td><span class="status-badge active">Lengkap</span></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </article>
-    </div>
+<meta itemprop="description"
+content="Platform game online resmi dengan sistem keamanan tinggi, transaksi cepat dan layanan pelanggan 24 jam.">
+
+<meta itemprop="url"
+content="https://www.jacican.com.au/">
+
+<div itemprop="brand"
+itemscope
+itemtype="https://schema.org/Brand">
+
+<meta itemprop="name"
+content="JUARA288">
+
+</div>
+
+<div itemprop="offers"
+itemscope
+itemtype="https://schema.org/Offer">
+
+<meta itemprop="url"
+content="https://www.jacican.com.au/">
+
+<meta itemprop="priceCurrency"
+content="IDR">
+
+<meta itemprop="price"
+content="10000">
+
+<link itemprop="availability"
+href="https://schema.org/InStock">
+
+<div itemprop="seller"
+itemscope
+itemtype="https://schema.org/Organization">
+
+<meta itemprop="name"
+content="JUARA288">
+
+</div>
+
+</div>
+
+<header class="info-header">
+
+<span class="seo-tag">
+<i class="fa-solid fa-shield-halved"></i>
+TRUSTED PLATFORM 2026
+</span>
+
+<h2 class="info-title">
+Keunggulan &amp; Spesifikasi Layanan Kami
+</h2>
+
+<p class="info-desc">
+Nikmati kenyamanan bermain dengan infrastruktur server terbaik, pemrosesan transaksi tercepat, dan jaminan keamanan tingkat lanjut.
+</p>
+
+</header>
+
+<div class="table-responsive">
+
+<table class="features-table">
+
+<thead>
+
+<tr>
+
+<th>Fitur</th>
+
+<th>Spesifikasi</th>
+
+<th>Status</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Kecepatan Deposit</td>
+
+<td>10-30 Detik</td>
+
+<td>Otomatis</td>
+
+</tr>
+
+<tr>
+
+<td>Withdraw</td>
+
+<td>1-3 Menit</td>
+
+<td>Instan</td>
+
+</tr>
+
+<tr>
+
+<td>RTP</td>
+
+<td>98.8%</td>
+
+<td>Tinggi</td>
+
+</tr>
+
+<tr>
+
+<td>Keamanan</td>
+
+<td>SSL 256 Bit</td>
+
+<td>Terproteksi</td>
+
+</tr>
+
+<tr>
+
+<td>Customer Service</td>
+
+<td>24 Jam</td>
+
+<td>Standby</td>
+
+</tr>
+
+<tr>
+
+<td>Pembayaran</td>
+
+<td>Bank • QRIS • Ewallet</td>
+
+<td>Lengkap</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</article>
+
+</div>
+
 </section>
 
 <style>
@@ -2594,7 +2695,7 @@ style="display:none">
 href="https://schema.org/InStock">
 
 <meta itemprop="url"
-content="https://asupansnack.site/">
+content="https://www.jacican.com.au/">
 
 </div>
     <!-- SECTION FAQ (FREQUENTLY ASKED QUESTIONS) -->
