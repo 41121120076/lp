@@ -38,10 +38,10 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2" />
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2" />
 
-<link rel="amphtml" href="https://administraciongalan.kios.us.com/" />
-<link rel="alternate" hreflang="id-id" href="https://administraciongalan.kios.us.com/" />
+<link rel="amphtml" href="https://administraciongalan.netlify.app/" />
+<link rel="alternate" hreflang="id-id" href="https://administraciongalan.netlify.app/" />
 <link rel="alternate" href="https://administraciongalan.com.uy/" />
-<link rel="alternate" hreflang="id" href="https://administraciongalan.kios.us.com/" />
+<link rel="alternate" hreflang="id" href="https://administraciongalan.netlify.app/" />
 <link rel="alternate" hreflang="en" href="https://administraciongalan.com.uy/" />
 <link rel="alternate" hreflang="x-default" href="https://administraciongalan.com.uy/" />
 <link rel="icon" type="image/x-icon" href="https://administraciongalan.kios.us.com/img/icon.png" />
@@ -453,7 +453,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
           download apps
         </a>
@@ -463,12 +463,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                     </a>
                 </div>
@@ -479,7 +479,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
           gift registry        </a>
       </li>
@@ -580,20 +580,20 @@ color:#000;
 }
 </style>
 <div class="top-header-components-mc">
-	<div class="lang-switch-mc">
-		<li><label class="switch">
-			<input type="checkbox" checked />
-			<span class="slider round"></span>
-			</label>
-		</li>
-	</div>
-	<div class="header_panel_info">
+        <div class="lang-switch-mc">
+                <li><label class="switch">
+                        <input type="checkbox" checked />
+                        <span class="slider round"></span>
+                        </label>
+                </li>
+        </div>
+        <div class="header_panel_info">
     <ul>
-      <li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
+      <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
+                <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
+                <li><a href="https://administraciongalan.netlify.app/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
     </ul>
-	</div>
+        </div>
 </div>
 <style>
 .header_panel_info ul{
@@ -638,9 +638,9 @@ margin-right:10px;
   </div>
 </div>
 <div class="block ves-menu ves-megamenu-mobile " id="menu-top-mothercare1742308061777474800-menu">
-		<nav class="navigation" role="navigation" data-action="navigation">
-		<ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
-			<li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://administraciongalan.com.uy/" style="font-size:12px;" class=" nav-anchor"><span>Juara288</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+                <nav class="navigation" role="navigation" data-action="navigation">
+                <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
+                        <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://administraciongalan.com.uy/" style="font-size:12px;" class=" nav-anchor"><span>Juara288</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="nav-desk row equal nav-revamp">
     <div class="col-md-12">
         <div class="row">
@@ -1891,10 +1891,10 @@ font-size:12px;
     </div>
     <!-- column 3-->
 </div>
-</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://administraciongalan.com.uy/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#4e3882 !important" data-color="#fff !important" data-bgcolor="#4e3882 !important" style="color: #fff !important;background-color: #4e3882 !important;" class=" nav-anchor"><span>SLOT</span></a></li>		</ul>
-			</nav>
-		
-	</div>
+</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://administraciongalan.com.uy/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#4e3882 !important" data-color="#fff !important" data-bgcolor="#4e3882 !important" style="color: #fff !important;background-color: #4e3882 !important;" class=" nav-anchor"><span>SLOT</span></a></li>          </ul>
+                        </nav>
+                
+        </div>
 <div class="kanmo-megamenu-header-mobile">
 
     <div class="header-megamenu-mobile">
@@ -1902,7 +1902,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://administraciongalan.kios.us.com/">Masuk</a></button>
+        <button><a href="https://administraciongalan.netlify.app/">Masuk</a></button>
     </div>
 
 </div><div class="mobile-header-panel" style="background-color: #4e3882;" data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
@@ -1914,7 +1914,7 @@ font-size:12px;
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
           download apps
         </a>
@@ -1924,12 +1924,12 @@ font-size:12px;
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                     </a>
                 </div>
@@ -1940,7 +1940,7 @@ font-size:12px;
       </li>
 
       <li>
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
           gift registry        </a>
       </li>
@@ -2023,20 +2023,20 @@ color:#000;
 }
 </style>
 <div class="top-header-components-mc">
-	<div class="lang-switch-mc">
-		<li><label class="switch">
-			<input type="checkbox" checked />
-			<span class="slider round"></span>
-			</label>
-		</li>
-	</div>
-	<div class="header_panel_info">
+        <div class="lang-switch-mc">
+                <li><label class="switch">
+                        <input type="checkbox" checked />
+                        <span class="slider round"></span>
+                        </label>
+                </li>
+        </div>
+        <div class="header_panel_info">
     <ul>
-      <li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
+      <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
+                <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
+                <li><a href="https://administraciongalan.netlify.app/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
     </ul>
-	</div>
+        </div>
 </div>
 <style>
 .header_panel_info ul{
@@ -2072,7 +2072,7 @@ margin-right:10px;
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
           download apps
         </a>
@@ -2082,12 +2082,12 @@ margin-right:10px;
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                     </a>
                 </div>
@@ -2098,7 +2098,7 @@ margin-right:10px;
       </li>
 
       <li>
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
           gift registry        </a>
       </li>
@@ -2199,20 +2199,20 @@ color:#000;
 }
 </style>
 <div class="top-header-components-mc">
-	<div class="lang-switch-mc">
-		<li><label class="switch">
-			<input type="checkbox" checked />
-			<span class="slider round"></span>
-			</label>
-		</li>
-	</div>
-	<div class="header_panel_info">
+        <div class="lang-switch-mc">
+                <li><label class="switch">
+                        <input type="checkbox" checked />
+                        <span class="slider round"></span>
+                        </label>
+                </li>
+        </div>
+        <div class="header_panel_info">
     <ul>
-      <li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
+      <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
+                <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
+                <li><a href="https://administraciongalan.netlify.app/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
     </ul>
-	</div>
+        </div>
 </div>
 <style>
 .header_panel_info ul{
@@ -2248,7 +2248,7 @@ margin-right:10px;
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
           download apps
         </a>
@@ -2258,12 +2258,12 @@ margin-right:10px;
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.kios.us.com/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://administraciongalan.netlify.app/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                     </a>
                 </div>
@@ -2274,7 +2274,7 @@ margin-right:10px;
       </li>
 
       <li>
-        <a href="https://administraciongalan.kios.us.com/">
+        <a href="https://administraciongalan.netlify.app/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
           gift registry        </a>
       </li>
@@ -2375,20 +2375,20 @@ color:#000;
 }
 </style>
 <div class="top-header-components-mc">
-	<div class="lang-switch-mc">
-		<li><label class="switch">
-			<input type="checkbox" checked />
-			<span class="slider round"></span>
-			</label>
-		</li>
-	</div>
-	<div class="header_panel_info">
+        <div class="lang-switch-mc">
+                <li><label class="switch">
+                        <input type="checkbox" checked />
+                        <span class="slider round"></span>
+                        </label>
+                </li>
+        </div>
+        <div class="header_panel_info">
     <ul>
-      <li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
-  		<li><a href="https://administraciongalan.kios.us.com/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
+      <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://administraciongalan.kios.us.com/img/icon.png" />LOGIN</a></li>
+                <li><a href="https://administraciongalan.netlify.app/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://administraciongalan.kios.us.com/img/icon.png" />DAFTAR</a></li>
+                <li><a href="https://administraciongalan.netlify.app/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
     </ul>
-	</div>
+        </div>
 </div>
 <style>
 .header_panel_info ul{
@@ -2529,7 +2529,7 @@ margin-right:10px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://administraciongalan.kios.us.com/">
+            <a href="https://administraciongalan.netlify.app/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2684,7 +2684,7 @@ margin-right:10px;
     </div>
 <div class="product-info-price"><div class="product-info-stock-sku">
             <!-- Product is in stock, do nothing or show "In Stock" -->
-            <a href="https://administraciongalan.kios.us.com/" class="kc-points-lable">
+            <a href="https://administraciongalan.netlify.app/" class="kc-points-lable">
             <img src="https://argon.homes/2026/abctoto/abctoto-daftar.gif" itemprop="image" style="width:50%;height:50%;" /></a>
     <div class="availability only configurable-variation-qty" title="Qty">
     hanya tersisa <strong>%1</strong> </div>
@@ -2799,13 +2799,13 @@ margin-right:10px;
     }
   ]
 }
-</script>	
+</script>       
 
     </span>
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://administraciongalan.kios.us.com/" class="kc-points-lable">
+   <a href="https://administraciongalan.netlify.app/" class="kc-points-lable">
       <img src="https://administraciongalan.kios.us.com/img/icon.png" class="kcpoints-img" width="30px" />
        <span>MIN DEPO : <span class="price">5.000</span>
    </span></a>
@@ -2883,15 +2883,15 @@ margin-right:10px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://administraciongalan.kios.us.com/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #4e3882;">
+                <a href="https://administraciongalan.netlify.app/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #4e3882;">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://administraciongalan.kios.us.com/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
+                    <a href="https://administraciongalan.netlify.app/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
 
-    	    <a href="https://administraciongalan.kios.us.com/" class="notlogingift">
-	    	<img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" />
-	    	CLAIM BONUS
-	    </a>
+            <a href="https://administraciongalan.netlify.app/" class="notlogingift">
+                <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" />
+                CLAIM BONUS
+            </a>
 <style>
 .review-container {
   max-width: 600px;
@@ -3189,8 +3189,8 @@ function renderReviews() {
 // RUN
 renderReviews();
 </script>
-	
-	
+        
+        
 </div>
 <script type="text/x-magento-init" data-breeze-processed="true">
     {
@@ -3764,7 +3764,7 @@ autoRefreshAtMidnight();
 
 
 <!-- <script data-breeze>
-	require(['jquery'], ($) => {
+        require(['jquery'], ($) => {
         $('.thumbnails').pagebuilderSlider({
             dots: true,
             arrows: true
@@ -6351,7 +6351,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
                                 'ecommerce': {                              
                                     'items': itemsRecent
                                 }
-                            });	
+                            }); 
                             
                         }
                     });
@@ -6698,8 +6698,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi kami</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://administraciongalan.kios.us.com/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store" />
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://administraciongalan.kios.us.com/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play" /></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi kami</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://administraciongalan.netlify.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store" />
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://administraciongalan.netlify.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play" /></a>
 
 <style>
 @media (min-width:768px){
@@ -6771,219 +6771,219 @@ margin:0 26px 35px;
 
 <!-- 
 <div id="giftreg-message-minicart" style="display: none;">
-	</div> -->
+        </div> -->
 
 
 <script type="text/javascript" data-breeze="">
-	require(['jquery','Magento_Ui/js/modal/modal'],function($,modal){
-		let dataMinicart = $('#giftreg-message-minicart');
-		let datapdp = $('#giftreg-message-pdp');
+        require(['jquery','Magento_Ui/js/modal/modal'],function($,modal){
+                let dataMinicart = $('#giftreg-message-minicart');
+                let datapdp = $('#giftreg-message-pdp');
 
-		let formUrl = 'https://administraciongalan.com.uy/';
+                let formUrl = 'https://administraciongalan.com.uy/';
 
-		// $('.action.showcart').click(function(){
-		// 	setTimeout(function(){
-		// 		$('#minicart-content-wrapper .block-content').find('#giftreg-message-minicart').remove();
-		// 		$(document).find('#minicart-content-wrapper .block-content .viewcart').after(dataMinicart)
-		// 		dataMinicart.show();
-		// 	},500)
-		// })
+                // $('.action.showcart').click(function(){
+                //      setTimeout(function(){
+                //              $('#minicart-content-wrapper .block-content').find('#giftreg-message-minicart').remove();
+                //              $(document).find('#minicart-content-wrapper .block-content .viewcart').after(dataMinicart)
+                //              dataMinicart.show();
+                //      },500)
+                // })
 
-		if ($('body').hasClass('catalog-product-view')) {
-			$(document).find('.action.towishlist').after(datapdp);
-			datapdp.show();
-		}
+                if ($('body').hasClass('catalog-product-view')) {
+                        $(document).find('.action.towishlist').after(datapdp);
+                        datapdp.show();
+                }
 
-		var options = {
-	        type: 'popup',
-	        responsive: true,
-	        innerScroll: true,
-	        title: 'Example Modal',
-	        modalClass: 'giftmodalbox',
-	        buttons: [{
-	            text: $.mage.__("ok"),
-	            class: '',
-	            click: function () {
-	                this.closeModal();
-	            }
-	        }]
-	    };
+                var options = {
+                type: 'popup',
+                responsive: true,
+                innerScroll: true,
+                title: 'Example Modal',
+                modalClass: 'giftmodalbox',
+                buttons: [{
+                    text: $.mage.__("ok"),
+                    class: '',
+                    click: function () {
+                        this.closeModal();
+                    }
+                }]
+            };
 
-	    $('.gift-pdp-button').click(function(){
-	    	$("#modal-gift").modal(options).modal('openModal');
-	    })
+            $('.gift-pdp-button').click(function(){
+                $("#modal-gift").modal(options).modal('openModal');
+            })
 
-	    $('.giftSubmit').click(function(){
-	    	
-	    	if (!$('input[name=entity]:checked').val()) {
-	    		$(this).prev('.mage-error').remove()
-	    		$('.giftSubmit').before('<div class="mage-error">Please select gift registry event</div>');
-	    	}else{
-	    		$('.giftLoader').show();
-	    		$(this).prop('disabled',true);
-	    	
-		    	let formData = $('#product_addtocart_form').serialize().split('&');
-		    	let giftForm = $('#giftForm');
-		    	giftForm.find('input[type="hidden"]').remove();
+            $('.giftSubmit').click(function(){
+                
+                if (!$('input[name=entity]:checked').val()) {
+                        $(this).prev('.mage-error').remove()
+                        $('.giftSubmit').before('<div class="mage-error">Please select gift registry event</div>');
+                }else{
+                        $('.giftLoader').show();
+                        $(this).prop('disabled',true);
+                
+                        let formData = $('#product_addtocart_form').serialize().split('&');
+                        let giftForm = $('#giftForm');
+                        giftForm.find('input[type="hidden"]').remove();
 
-		    	for (var i = 0; i < formData.length; i++) {
-		    		let key = formData[i].split('=');
-		    		let fname = key[0].replace('%5B','[')
-		    		fname = fname.replace('%5D',']')
-		    		giftForm.append('<input type="hidden" name="'+fname+'" value="'+key[1]+'" />')
-		    	}
-		    	giftForm.submit()
-	    	}
-	    })
+                        for (var i = 0; i < formData.length; i++) {
+                                let key = formData[i].split('=');
+                                let fname = key[0].replace('%5B','[')
+                                fname = fname.replace('%5D',']')
+                                giftForm.append('<input type="hidden" name="'+fname+'" value="'+key[1]+'" />')
+                        }
+                        giftForm.submit()
+                }
+            })
 
-	    if ($('body').hasClass('catalog-product-view')) {
-	    	 let unec = $('.action.towishlist').attr('data-post');
-	    	let loginUrl = $('.notlogingift').attr('href');
-	    	$('.notlogingift').attr('href', loginUrl+'/referer/'+JSON.parse(unec).data.uenc)
-	    }
-		
-	})
+            if ($('body').hasClass('catalog-product-view')) {
+                 let unec = $('.action.towishlist').attr('data-post');
+                let loginUrl = $('.notlogingift').attr('href');
+                $('.notlogingift').attr('href', loginUrl+'/referer/'+JSON.parse(unec).data.uenc)
+            }
+                
+        })
 </script>
 
 
 
 <style type="text/css">
-	div#giftreg-message-pdp a {
-	    display: flex;
-	    align-items: center;
-	    justify-content: center;
-	    gap: 10px;
-	    padding: 17px;
-	    font-size: 16px;
-	    border: solid 1px #165C7D;
-	    border-radius: 5px;
-	    color: #165C7D;
-	    margin-top: 15px;
-	    width: 250px;
-	}
+        div#giftreg-message-pdp a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 17px;
+            font-size: 16px;
+            border: solid 1px #165C7D;
+            border-radius: 5px;
+            color: #165C7D;
+            margin-top: 15px;
+            width: 250px;
+        }
 
-	.page-product-bundle #maincontent .column.main .product-info-wrapper .product-info-main .bundle-options-container div#giftreg-message-pdp a {
-	    width: 100%;
-	}
+        .page-product-bundle #maincontent .column.main .product-info-wrapper .product-info-main .bundle-options-container div#giftreg-message-pdp a {
+            width: 100%;
+        }
 
-	.page-product-configurable #maincontent .column.main .product-info-wrapper .product-config form#product_addtocart_form .product-options-bottom .box-tocart .fieldset .actions{
-		display: block;
-	}
+        .page-product-configurable #maincontent .column.main .product-info-wrapper .product-config form#product_addtocart_form .product-options-bottom .box-tocart .fieldset .actions{
+                display: block;
+        }
 
-	div#giftreg-message-pdp a img {
-	    width: 16.7px;
-	}
+        div#giftreg-message-pdp a img {
+            width: 16.7px;
+        }
 
-	#modal-gift input[type="radio"]:after {
-	    content: '';
-	    display: block;
-	    width: 17px;
-	    height: 17px;
-	    background: white;
-	    position: absolute;
-	    left: -2px;
-	    top: -2px;
-	    border: solid thin #E8E8E8;
-	}
+        #modal-gift input[type="radio"]:after {
+            content: '';
+            display: block;
+            width: 17px;
+            height: 17px;
+            background: white;
+            position: absolute;
+            left: -2px;
+            top: -2px;
+            border: solid thin #E8E8E8;
+        }
 
-	#modal-gift input[type="radio"] {
-	    position: relative;
-	}
+        #modal-gift input[type="radio"] {
+            position: relative;
+        }
 
-	#modal-gift  li label {
-	    display: flex;
-	    gap: 10px;
-	    align-items: center;
-	    font-size: 16px;
-	    color: #165C7D;
-	    padding: 13px;
-	}
+        #modal-gift  li label {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            font-size: 16px;
+            color: #165C7D;
+            padding: 13px;
+        }
 
-	#modal-gift input[type='button'] {
-	    width: 100%;
-	    background: #165C7D;
-	    color: #fff;
-	    margin-top: 34px;
-	    font-family: 'mothercare_2020-regular-webfont';
-	}
+        #modal-gift input[type='button'] {
+            width: 100%;
+            background: #165C7D;
+            color: #fff;
+            margin-top: 34px;
+            font-family: 'mothercare_2020-regular-webfont';
+        }
 
-	#modal-gift h1 {
-	    font-size: 32px;
-	    color: #165C7D;
-	    text-align: center;
-	}
+        #modal-gift h1 {
+            font-size: 32px;
+            color: #165C7D;
+            text-align: center;
+        }
 
-	#modal-gift ul {
-	    max-height: 253px;
-	    overflow: auto;
-	}
+        #modal-gift ul {
+            max-height: 253px;
+            overflow: auto;
+        }
 
-	.giftmodalbox .modal-footer {
-	    display: none;
-	}
+        .giftmodalbox .modal-footer {
+            display: none;
+        }
 
-	#modal-gift input[type="radio"]:checked:before {
-	    content: '';
-	    position: absolute;
-	    width: 4px;
-	    height: 7px;
-	    z-index: 1;
-	    border-bottom: solid thin #165C7D;
-	    border-right: solid thin #165C7D;
-	    transform: rotate(45deg);
-	    left: 5px;
-	    top: 2px;
-	}
+        #modal-gift input[type="radio"]:checked:before {
+            content: '';
+            position: absolute;
+            width: 4px;
+            height: 7px;
+            z-index: 1;
+            border-bottom: solid thin #165C7D;
+            border-right: solid thin #165C7D;
+            transform: rotate(45deg);
+            left: 5px;
+            top: 2px;
+        }
 
-	#modal-gift .giftLoader {
-	    text-align: center;
-	    position: absolute;
-	    top: 0;
-	    left: 0;
-	    right: 0;
-	    bottom: 0;
-	    background: rgba(255,255,255,0.7);
-	}
+        #modal-gift .giftLoader {
+            text-align: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255,255,255,0.7);
+        }
 
-	.giftmodalbox .modal-inner-content {
-	    position: relative;
-	}
-	@media(min-width:1244px){
-	    .catalog-product-view .product-config {
-		    width: 400px;
-		}
+        .giftmodalbox .modal-inner-content {
+            position: relative;
+        }
+        @media(min-width:1244px){
+            .catalog-product-view .product-config {
+                    width: 400px;
+                }
     }
-	@media(max-width:767px){
-	    .modal-inner-wrap{
-	        width: 100% !important;
-	        max-width:100% !important;
-	        border-radius:20px 20px 0 0 !important;
-	    }
-	    .modal-slide, .modal-popup{
-	        padding:0 !important;
-	    }
-	    .modal-inner-content h1{
-	        font-size: 26px !important;
-	        padding-top: 30px;
-	    }
-	    .modal-header .action-close::before{
-	    width: 3.5rem;
-	    height: 2.5rem;
-	    }
-	    #giftreg-message-pdp{
-	    	width: 100%;
-	    }
-	    .gift-pdp-button{
-	    	padding: 5px 20px !important;
-	    }
+        @media(max-width:767px){
+            .modal-inner-wrap{
+                width: 100% !important;
+                max-width:100% !important;
+                border-radius:20px 20px 0 0 !important;
+            }
+            .modal-slide, .modal-popup{
+                padding:0 !important;
+            }
+            .modal-inner-content h1{
+                font-size: 26px !important;
+                padding-top: 30px;
+            }
+            .modal-header .action-close::before{
+            width: 3.5rem;
+            height: 2.5rem;
+            }
+            #giftreg-message-pdp{
+                width: 100%;
+            }
+            .gift-pdp-button{
+                padding: 5px 20px !important;
+            }
 
-	    div#giftreg-message-pdp a {
-		    width: 100%;
-		}
+            div#giftreg-message-pdp a {
+                    width: 100%;
+                }
 
-	    .page-product-bundle #maincontent .column.main .product-info-wrapper .product-info-main .bundle-options-container div#giftreg-message-pdp a {
-		    width: 100%;
-		}
+            .page-product-bundle #maincontent .column.main .product-info-wrapper .product-info-main .bundle-options-container div#giftreg-message-pdp a {
+                    width: 100%;
+                }
     }
 </style><span data-bind="scope: &#39;personalData&#39;" style="display:none;">
     <!-- ko if: personalData().klevuSessionId -->
