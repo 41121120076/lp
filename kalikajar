@@ -50,8 +50,8 @@
 <link as="image" href="https://kalikajar.desaku.space/img/Juara288.jpg" media="(min-width:1366px) and (-webkit-max-device-pixel-ratio: 1.5)" rel="preload"/>
 <link href="https://kalikajar.desa.id/bumdesa/css/site.min.f0928494201809fec3a1e8977d8c2a53.css" rel="stylesheet" type="text/css"/>
 <link href="https://kalikajar.desa.id/bumdesa/css/page-buying-pd.min.31450f4f522ff9cbaa6a27f7b92a8f37.css" rel="stylesheet" type="text/css"/>
-<link href="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/compactComps.min.c8df1c312f007cbe365067bcf47300e4.css" rel="stylesheet" type="text/css"/>
-<link href="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/compactComps-h-n.min.d41d8cd98f00b204e9800998ecf8427e.css" rel="stylesheet" type="text/css"/>
+<link href="https://kalikajar.desa.id/bumdesa/js/compactComps.min.c8df1c312f007cbe365067bcf47300e4.css" rel="stylesheet" type="text/css"/>
+<link href="https://kalikajar.desa.id/bumdesa/js/compactComps-h-n.min.d41d8cd98f00b204e9800998ecf8427e.css" rel="stylesheet" type="text/css"/>
 <link href="https://kalikajar.desa.id/bumdesa/css/site.min.d49c101fdadccee88e030f4c91651e9c.css" rel="stylesheet" type="text/css"/>
 <link href="https://kalikajar.desa.id/bumdesa/css/site.min.f2f39cae0431b16573847bcb7d615526.css" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
@@ -975,9 +975,9 @@ digitalData.page.pageInfo.pageName = pageName;
      </div>
     </div>
    </section>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/account-internal.min.js" type="text/javascript">
+   <script src="https://kalikajar.desa.id/bumdesa/js/account-internal.min.js" type="text/javascript">
    </script>
    <header id="header" role="banner">
     <!--googleoff: all-->
@@ -3608,7 +3608,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </div>
           </div>
          </div>
-         <script defer="" src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/popupnew360.js" type="text/javascript">
+         <script defer="" src="https://kalikajar.desa.id/bumdesa/js/popupnew360.js" type="text/javascript">
          </script>
         </section>
        </div>
@@ -8236,9 +8236,9 @@ item.classList.toggle("active");
     </svg>
    </button>
    <!--googleon: all-->
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/clientlib-base-ux25.min.91a4ebeb2dec9b19aa121b5c7154ff51.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/clientlib-base-ux25.min.91a4ebeb2dec9b19aa121b5c7154ff51.js">
    </script>
    <!-- <sly data-sly-test="false">
     <script type="text/javascript" src='/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
@@ -8264,21 +8264,21 @@ item.classList.toggle("active");
    <script defer="" src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&amp;render=explicit" type="text/javascript">
    </script>
    
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/site.min.36f33859be9e845ecc1d5b2ae517b039.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/site.min.36f33859be9e845ecc1d5b2ae517b039.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/site.min.74177fffeeca4bd1adfc2c5b99953a66.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/site.min.74177fffeeca4bd1adfc2c5b99953a66.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/site.min.f513c1da7401cfde7df15876f4b8fea0.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/site.min.f513c1da7401cfde7df15876f4b8fea0.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/page-buying-pd.min.eeb9431bf6dc2b001b8869bc85fdef28.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/page-buying-pd.min.eeb9431bf6dc2b001b8869bc85fdef28.js">
    </script>
-   <script defer="" src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/compactComps.min.e9338bc9fb7a92c8450bbafc4e49902f.js" type="text/javascript">
+   <script defer="" src="https://kalikajar.desa.id/bumdesa/js/compactComps.min.e9338bc9fb7a92c8450bbafc4e49902f.js" type="text/javascript">
    </script>
-   <script defer="" src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/compactComps-h-n.min.1c660086d47e1dd0046e752531513109.js" type="text/javascript">
+   <script defer="" src="https://kalikajar.desa.id/bumdesa/js/compactComps-h-n.min.1c660086d47e1dd0046e752531513109.js" type="text/javascript">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/site.min.648f96f9e6904235937a56177a4f9cb4.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/site.min.648f96f9e6904235937a56177a4f9cb4.js">
    </script>
-   <script src="https://dpupr.purbalinggakab.go.id/profil-dpu-pr/struktur-organisasi/js/site.min.dd4327a6471278074a327fbfe515c7a8.js">
+   <script src="https://kalikajar.desa.id/bumdesa/js/site.min.dd4327a6471278074a327fbfe515c7a8.js">
    </script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
     {"@context":"https://schema.org","@type":"WebPage","name":"Juara288 > 10 Link Slot Gacor Hari Ini Yang Hadir Karena Performa Server Tangguh","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Juara288 merupakan platform slot online terpercaya. Hadir untuk menawarkan link slot gacor malam ini 2026 bagi pengguna karena mempunyai performa tanggung sehingga ritme permainan berlangsung cepat, stabil, dan jarang gangguan.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
