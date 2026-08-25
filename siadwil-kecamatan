@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html amp lang="id">
 <head>
@@ -7,8 +8,8 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <meta name="author" content="Tim Editorial Slot777">
-<meta name="theme-color"content="#080808">
-<link rel="canonical"href="https://siadwil.samarindakota.go.id/kecamatan">
+<meta name="theme-color" content="#080808">
+<link rel="canonical" href="https://siadwil.samarindakota.go.id/kecamatan">
 <script async src="https://cdn.ampproject.org/v0.js"></script>
 <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
 <meta property="og:type" content="website">
@@ -152,12 +153,6 @@ box-sizing:border-box;
 
 html{
 scroll-behavior:smooth;
-}
-.i-amphtml-accordion-header {
-    cursor: pointer;
-    background-color: #71560a;
-    padding-right: 20px;
-    border: 1px solid #dfdfdf;
 }
 
 body{
@@ -665,28 +660,29 @@ font-size:13px;
 
 
 
-.faq{
-max-width:900px;
-margin:auto;
-border:1px solid var(--line);
-border-radius:15px;
-overflow:hidden;
-background:#111;
+.faq {
+    max-width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    border: 1px solid rgba(245,223,148,.28);
+    border-radius: 15px;
+    background: #3d2e08;
 }
 
-.faq section{
-padding:0;
-border-bottom:1px solid rgba(255,255,255,.07);
+.faq section {
+    padding: 0;
+    border-bottom: 1px solid rgba(245,223,148,.18);
 }
 
 .faq section:last-child{
 border-bottom:0;
 }
 
-.faq h3{
-margin:0;
-padding:17px;
-font-size:14px;
+.faq h3 {
+    margin: 0;
+    padding: 17px;
+    color: #f5df94;
+    font-size: 14px;
 }
 
 .faq-answer{
@@ -939,7 +935,7 @@ grid-template-columns:1fr;
 
 }
 
-</style> 
+</style>
 </head>
 <body id="top">
 
@@ -1014,9 +1010,7 @@ src="https://www.contact-usa.org/img/Asupantoto.jpg"
 width="1200"
 height="400"
 layout="responsive"
-alt="Slot777 informasi permainan slot online"
-loading="eager"
-fetchpriority="high">
+alt="Slot777 informasi permainan slot online">
 </amp-img>
 
 </div>
