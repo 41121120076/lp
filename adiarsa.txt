@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
+<meta name="google-site-verification" content="mrbuyg_L9XAg-U5156sqF1fUfZw6mCi1l6TKAbg3jSI" />
 <meta name="google-site-verification" content="n80HCHresXt5mrrq7C3DACj51oSjpFQIQ8K0IiZIosU" />
 <link href="https://adiarsa.desa.id" rel="preconnect"/>
 <meta charset="utf-8"/>
