@@ -18,9 +18,9 @@
 <meta name="title" content="Asupantoto > Link Resmi Toto Togel 4D dan Slot Gacor Online Auto Proses Pembayaran">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://dpupr.purbalinggakab.go.id/">
-<link rel="amphtml" href="https://hoki-2.dpupr-purba.com/">
-<link rel="alternate" hreflang="id-id" href="https://hoki-2.dpupr-purba.com/"/>
-<link rel="alternate" hreflang="id" href="https://hoki-2.dpupr-purba.com/"/>
+<link rel="amphtml" href="https://hoki-10.dpupr-purba.com/">
+<link rel="alternate" hreflang="id-id" href="https://hoki-10.dpupr-purba.com/"/>
+<link rel="alternate" hreflang="id" href="https://hoki-10.dpupr-purba.com/"/>
 <meta name="publisher" content="Asupantoto">
 <meta name="description" content="Asupantoto merupakan platform toto togel 4D dan slot gacor online berlisensi resmi dengan keunggulan performa stabil, proses pembayaran otomatis, serta proteksi keamanan real time.">
 <meta name="sitecode" content="id">
@@ -4076,8 +4076,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi toto) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://hoki-2.dpupr-purba.com/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://hoki-2.dpupr-purba.com/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://hoki-10.dpupr-purba.com/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://hoki-10.dpupr-purba.com/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -7318,17 +7318,17 @@ window.addEventListener("load", () => {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hoki-2.dpupr-purba.com/">
+                  <a class="footer-category__link" href="https://hoki-10.dpupr-purba.com/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hoki-2.dpupr-purba.com/">
+                  <a class="footer-category__link" href="https://hoki-10.dpupr-purba.com/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hoki-2.dpupr-purba.com/">
+                  <a class="footer-category__link" href="https://hoki-10.dpupr-purba.com/">
                     Lupa Password
                   </a>
                 </li>
@@ -11199,9 +11199,9 @@ window.addEventListener("load", () => {
         <div class="togel">
             <img src="https://hoki.dpupr-purba.com/img/Asupantoto.jpg" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://hoki-2.dpupr-purba.com/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://hoki-10.dpupr-purba.com/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://hoki-2.dpupr-purba.com/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://hoki-10.dpupr-purba.com/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
